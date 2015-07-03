@@ -40,7 +40,7 @@ bower install
 
 ### Preview
 
-[You can view a live preview of this application here.](http://goosewindmill.herokuapp.com/)
+[You can view a live preview of this application here.](https://jb-hackerfeed.herokuapp.com)
 
 ### Roadmap
 
